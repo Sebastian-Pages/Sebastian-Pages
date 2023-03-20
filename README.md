@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sebastian-Pages
 - 👀 I’m interested in AI
 - 🌱 I currently finished a master's degree in Computer Science specializing in Software engineering and Machine Learning
-- 💞️ I’m looking to work in AI
+- 💞️ I’m looking to work in the python world
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sebastian-pag%C3%A8s-9a187512b/)
 
 <!---
